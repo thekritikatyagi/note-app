@@ -3,7 +3,7 @@
     "name": "Notes",
     "slug": "note",
     "version": "1.0.0",
-    "owner": "kaushalsahu.07",
+    "owner": "thekritikatyagi",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "userInterfaceStyle": "dark",
@@ -24,7 +24,7 @@
         "WRITE_EXTERNAL_STORAGE",
         "READ_EXTERNAL_STORAGE"
       ],
-      "package": "com.kaushal.notesapp"
+      "package": "com.thekritikatyagi.notesapp"
     },
     "plugins": [
       "expo-router"
